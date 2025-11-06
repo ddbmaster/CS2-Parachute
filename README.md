@@ -1,8 +1,8 @@
 🇩🇪 Installation
 
 Plugin herunterladen
-Lade die neueste Version des Plugins herunter (z. B. Parachute_v1.6.1.zip oder aus deinem Git-Repository).
-https://github.com/ddbmaster/CS2-Parachute/releases/download/Fallschirm/Parachute-1.6.1.zip
+Lade die neueste Version des Plugins herunter (z. B. Parachute_v1.6.1.zip oder aus dem Git-Repository).
+Hier das neue:  [releases](https://github.com/ddbmaster/CS2-Parachute/releases) 
 Dateien entpacken
 Entpacke den Inhalt in deinen Counter-Strike 2-Serverordner:
 
